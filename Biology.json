@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the scientific name for the study of plants?",
+        "ans": "Botany"
+    },
+    {
+        "id": 2,
+        "ques": "What is the smallest unit of life called?",
+        "ans": "Cell"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the organ that filters the blood in the human body?",
+        "ans": "Kidneys"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the process that generates energy in organisms?",
+        "ans": "Respiration"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the organ that pumps blood in the human body?",
+        "ans": "Heart"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the molecule that stores genetic information in cells?",
+        "ans": "DNA"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the process that allows cells to divide and make new cells?",
+        "ans": "Mitosis"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the main source of energy for living organisms?",
+        "ans": "Glucose"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the structure that provides support and protection for plant cells?",
+        "ans": "Cell wall"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the substance in blood that carries oxygen to cells?",
+        "ans": "Haemoglobin"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the name of the element with the atomic number 1?",
+        "ans": "Hydrogen"
+    },
+    {
+        "id": 2,
+        "ques": "What is the name of the process that converts a solid into a liquid?",
+        "ans": "Melting"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the chemical formula for water?",
+        "ans": "H2O"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the process that converts a liquid into a gas?",
+        "ans": "Evaporation"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the substance in a battery that produces electricity?",
+        "ans": "Electrolyte"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the process that involves the formation of a new substance by chemical reaction?",
+        "ans": "Synthesis"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the type of bond that forms between two oppositely charged ions?",
+        "ans": "Ionic"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the substance in vinegar that makes it sour?",
+        "ans": "Acetic acid"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the type of reaction that releases energy?",
+        "ans": "Exothermic"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the chemical formula for table salt?",
+        "ans": "NaCl"
+    }
+]

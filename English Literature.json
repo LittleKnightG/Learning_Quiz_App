@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "Who wrote the novel 'Pride and Prejudice' in the 19th century?",
+        "ans": "Jane Austen"
+    },
+    {
+        "id": 2,
+        "ques": "Who wrote the play 'Romeo and Juliet' in the 16th century?",
+        "ans": "William Shakespeare"
+    },
+    {
+        "id": 3,
+        "ques": "Who wrote the novel 'To Kill a Mockingbird' in the 20th century?",
+        "ans": "Harper Lee"
+    },
+    {
+        "id": 4,
+        "ques": "Who wrote the novel 'Wuthering Heights' in the 19th century?",
+        "ans": "Emily Bronte"
+    },
+    {
+        "id": 5,
+        "ques": "Who wrote the play 'Hamlet' in the early 17th century?",
+        "ans": "William Shakespeare"
+    },
+    {
+        "id": 6,
+        "ques": "Who wrote the novel 'Great Expectations' in the 19th century?",
+        "ans": "Charles Dickens"
+    },
+    {
+        "id": 7,
+        "ques": "Who wrote the novel 'Jane Eyre' in the 19th century?",
+        "ans": "Charlotte Bronte"
+    },
+    {
+        "id": 8,
+        "ques": "Who wrote the play 'Macbeth' in the early 17th century?",
+        "ans": "William Shakespeare"
+    },
+    {
+        "id": 9,
+        "ques": "Who wrote the novel 'Moby-Dick' in the 19th century?",
+        "ans": "Herman Melville"
+    },
+    {
+        "id": 10,
+        "ques": "Who wrote the play 'Othello' in the early 17th century?",
+        "ans": "William Shakespeare"
+    }
+]

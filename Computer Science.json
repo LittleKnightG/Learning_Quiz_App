@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the name of the type of software that allows a user to create and edit digital media?",
+        "ans": "Media editing software"
+    },
+    {
+        "id": 2,
+        "ques": "What is the name of the type of software that allows a user to manage and organize files on a computer?",
+        "ans": "File manager"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the type of software that provides a graphical user interface (GUI) for computer users?",
+        "ans": "Operating system"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the type of software that enables communication over the internet?",
+        "ans": "Internet browser"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the type of software that allows a user to perform mathematical calculations?",
+        "ans": "Calculator"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the programming language that was first introduced in the 1970s and is still widely used today?",
+        "ans": "C"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the type of software that provides security for computer systems?",
+        "ans": "Antivirus software"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the type of software that allows a user to browse and search the internet?",
+        "ans": "Web browser"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the type of software that is used for creating and editing documents?",
+        "ans": "Word processor"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the type of software that provides a platform for running other software applications?",
+        "ans": "Operating system"
+    }
+]

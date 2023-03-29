@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the name of the force that acts upon an object that is stationary on a flat surface?",
+        "ans": "Gravity"
+    },
+    {
+        "id": 2,
+        "ques": "What is the name of the type of energy that is associated with motion?",
+        "ans": "Kinetic energy"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the device that measures force and is used to measure weight?",
+        "ans": "Scale"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the law that states that for every action, there is an equal and opposite reaction?",
+        "ans": "Newton's Third Law of Motion"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the unit used to measure the amount of energy transferred or converted in a system?",
+        "ans": "Joule"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the phenomenon that occurs when a solid changes directly into a gas, bypassing the liquid phase?",
+        "ans": "Sublimation"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the type of energy that is stored in an object due to its position or shape?",
+        "ans": "Potential energy"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the type of energy that is associated with the movement of charged particles?",
+        "ans": "Electrical energy"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the force that attracts two objects toward each other, proportional to their masses and distance apart?",
+        "ans": "Gravitational force"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the speed of light in a vacuum?",
+        "ans": "c (299,792,458 meters per second)"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the capital of Australia?",
+        "ans": "Canberra"
+    },
+    {
+        "id": 2,
+        "ques": "What is the longest river in the world?",
+        "ans": "Nile"
+    },
+    {
+        "id": 3,
+        "ques": "What is the largest ocean in the world?",
+        "ans": "Pacific Ocean"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the largest desert in the world?",
+        "ans": "Sahara Desert"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the largest mountain range in the world?",
+        "ans": "Andes"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the largest country in the world?",
+        "ans": "Russia"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the smallest country in the world?",
+        "ans": "Vatican City"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the largest island in the world?",
+        "ans": "Greenland"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the highest waterfall in the world?",
+        "ans": "Angel Falls"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the deepest ocean trench in the world?",
+        "ans": "Mariana Trench"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the definition of economics?",
+        "ans": "The study of how people use resources to meet their needs and wants"
+    },
+    {
+        "id": 2,
+        "ques": "What is the definition of a sole trader?",
+        "ans": "A type of business structure where one person owns and runs the business"
+    },
+    {
+        "id": 3,
+        "ques": "What is the definition of a partnership?",
+        "ans": "A type of business structure where two or more people own and run the business together"
+    },
+    {
+        "id": 4,
+        "ques": "What is the definition of a limited company?",
+        "ans": "A type of business structure where the owners have limited liability for the company's debts"
+    },
+    {
+        "id": 5,
+        "ques": "What is the definition of a franchise?",
+        "ans": "A type of business relationship where the franchisee operates a business using the franchisor's brand and systems"
+    },
+    {
+        "id": 6,
+        "ques": "What is the definition of a joint venture?",
+        "ans": "A type of business partnership where two or more companies work together on a specific project or business venture"
+    },
+    {
+        "id": 7,
+        "ques": "What is the definition of market research?",
+        "ans": "The process of gathering and analyzing information about a market, product, or service"
+    },
+    {
+        "id": 8,
+        "ques": "What is the definition of a supply chain?",
+        "ans": "The network of businesses and organizations involved in producing and delivering a product or service"
+    },
+    {
+        "id": 9,
+        "ques": "What is the definition of a balance sheet?",
+        "ans": "A financial statement that shows a company's assets, liabilities, and equity at a specific point in time"
+    },
+    {
+        "id": 10,
+        "ques": "What is the definition of a cash flow statement?",
+        "ans": "A financial statement that shows a company's inflows and outflows of cash over a specific period of time"
+    }
+]

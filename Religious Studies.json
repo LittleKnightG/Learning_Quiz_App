@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the name of the holy book in Christianity?",
+        "ans": "Bible"
+    },
+    {
+        "id": 2,
+        "ques": "What is the name of the holy book in Islam?",
+        "ans": "Quran"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the holy book in Hinduism?",
+        "ans": "Vedas"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the holy book in Buddhism?",
+        "ans": "Tripitaka"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the holy book in Sikhism?",
+        "ans": "Guru Granth Sahib"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the founder of Christianity?",
+        "ans": "Jesus Christ"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the founder of Islam?",
+        "ans": "Prophet Muhammad"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the founder of Hinduism?",
+        "ans": "No single founder"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the founder of Buddhism?",
+        "ans": "Siddhartha Gautama"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the founder of Sikhism?",
+        "ans": "Guru Nanak"
+    }
+]

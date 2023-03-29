@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "ques": "What is the name of the type of economy where the government controls production and distribution of goods and services?",
+        "ans": "Command economy"
+    },
+    {
+        "id": 2,
+        "ques": "What is the name of the type of economy where individuals own and operate businesses to make a profit?",
+        "ans": "Market economy"
+    },
+    {
+        "id": 3,
+        "ques": "What is the name of the concept that states that individuals and businesses will make choices based on their self-interest?",
+        "ans": "Rational self-interest"
+    },
+    {
+        "id": 4,
+        "ques": "What is the name of the concept that states that a good or service has a lower price if it is produced in large quantities and a higher price if it is produced in small quantities?",
+        "ans": "Law of diminishing returns"
+    },
+    {
+        "id": 5,
+        "ques": "What is the name of the concept that states that prices will adjust to bring supply and demand into balance?",
+        "ans": "Law of supply and demand"
+    },
+    {
+        "id": 6,
+        "ques": "What is the name of the concept that states that people will buy more of a good or service if its price decreases, and buy less if its price increases?",
+        "ans": "Law of demand"
+    },
+    {
+        "id": 7,
+        "ques": "What is the name of the type of economy where people can buy and sell goods and services freely and without government intervention?",
+        "ans": "Free market economy"
+    },
+    {
+        "id": 8,
+        "ques": "What is the name of the economic system that combines elements of a market economy and a planned economy?",
+        "ans": "Mixed economy"
+    },
+    {
+        "id": 9,
+        "ques": "What is the name of the type of economy where the government provides goods and services and sets prices to achieve economic and social goals?",
+        "ans": "Planned economy"
+    },
+    {
+        "id": 10,
+        "ques": "What is the name of the concept that states that people will work more if they are paid more, and work less if they are paid less?",
+        "ans": "Law of supply"
+    }
+]
